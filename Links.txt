@@ -1,0 +1,13 @@
+1. maze solve lhr algorithm matlab code
+2. Solving a Maze with the Watershed Transform
+3. Solve a maze problem using morphology in Matlab
+
+
+https://blogs.mathworks.com/steve/2014/01/21/solving-mazes-with-the-watershed-transform/
+
+https://blogs.mathworks.com/steve/2015/12/21/a-cheating-maze-solver-with-image-graphs/#abe44da2-389c-496f-bb1c-6e400c55a96a
+
+https://blogs.mathworks.com/pick/2010/04/30/solving-mazes-with-image-processing-algorithms/
+
+Solve a maze problem using morphology in Matlab
+https://www.youtube.com/watch?v=NQfU8n9aMSY
